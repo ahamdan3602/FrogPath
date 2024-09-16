@@ -27,7 +27,7 @@ cd FrogPath</code></pre>
         <pre><code>java FrogPath &lt;grid_filename&gt;</code></pre>
         <p>Replace <code>&lt;grid_filename&gt;</code> with the name of the configuration file representing the grid environment.</p>
         <h3>Visualization Example</h3>
-        ![image](https://github.com/user-attachments/assets/a2313b2b-dcaf-4cc9-89e7-ce9e7a021eca)
+        <img src = 'https://github.com/user-attachments/assets/a2313b2b-dcaf-4cc9-89e7-ce9e7a021eca'/>
         <h2>How It Works</h2>
         <ol>
             <li><strong>Grid Parsing</strong>: The grid configuration file is parsed to create a hexagonal grid environment containing cells such as food, lily pads, and alligators.</li>
