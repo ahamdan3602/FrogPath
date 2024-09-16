@@ -58,7 +58,7 @@
         <ol>
             <li>Clone the repository:</li>
             <pre><code>git clone https://github.com/ahamdan3602/FrogPath.git
-cd frog-pathfinding-simulation</code></pre>
+cd FrogPath</code></pre>
             <li>Compile the Java files:</li>
             <pre><code>javac ArrayUniquePriorityQueue.java FrogPath.java</code></pre>
         </ol>
