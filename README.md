@@ -20,7 +20,7 @@
             <pre><code>git clone https://github.com/ahamdan3602/FrogPath.git
 cd FrogPath</code></pre>
             <li>Compile the Java files:</li>
-            <pre><code>javac ArrayUniquePriorityQueue.java FrogPath.java</code></pre>
+            <pre><code>javac TestPath.java</code></pre>
         </ol>
         <h2>Running the Simulation</h2>
         <p>To run the simulation, execute the <code>FrogPath</code> class with the filename of the grid configuration:</p>
