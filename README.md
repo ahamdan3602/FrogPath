@@ -1,6 +1,4 @@
 <!DOCTYPE html>
-<head>
-</head>
 <body>
     <div class="container">
         <h1>Frog Pathfinding Simulation</h1>
