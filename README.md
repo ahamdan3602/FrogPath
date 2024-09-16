@@ -26,15 +26,8 @@ cd FrogPath</code></pre>
         <p>To run the simulation, execute the <code>FrogPath</code> class with the filename of the grid configuration:</p>
         <pre><code>java FrogPath &lt;grid_filename&gt;</code></pre>
         <p>Replace <code>&lt;grid_filename&gt;</code> with the name of the configuration file representing the grid environment.</p>
-        <h3>Example</h3>
-        <p>A sample grid configuration file, <code>example_grid.txt</code>, is provided in the repository. You can run the simulation using this file as follows:</p>
-        <pre><code>java FrogPath example_grid.txt</code></pre>
-        <h2>Project Structure</h2>
-        <ul>
-            <li><code>ArrayUniquePriorityQueue.java</code>: Implements the priority queue using an array, ensuring uniqueness and managing priorities.</li>
-            <li><code>FrogPath.java</code>: Contains the simulation logic for Freddy’s movements, interactions with the environment, and pathfinding algorithm.</li>
-            <li><code>example_grid.txt</code>: A sample grid configuration file that you can use to test the simulation.</li>
-        </ul>
+        <h3>Visualization Example</h3>
+        ![image](https://github.com/user-attachments/assets/a2313b2b-dcaf-4cc9-89e7-ce9e7a021eca)
         <h2>How It Works</h2>
         <ol>
             <li><strong>Grid Parsing</strong>: The grid configuration file is parsed to create a hexagonal grid environment containing cells such as food, lily pads, and alligators.</li>
